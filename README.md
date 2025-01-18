@@ -12,6 +12,6 @@ This GitHub repository, "WineQualityPrediction", is a project that focuses on pr
 - Machine Learning Algorithms
 - Data Analysis and Preprocessing
 
-### License
-The project does not specify a license, so the default copyright laws apply.
+### Sample image 
+![image](https://github.com/user-attachments/assets/1d78a03a-c5df-4df1-a603-fbdf82aa7481)
 
